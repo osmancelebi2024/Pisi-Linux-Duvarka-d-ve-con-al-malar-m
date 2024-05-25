@@ -1,2 +1,2 @@
-# Pisi-Linux-Duvarka-d-ve-con-al-malar-m
-pisi linux, pisi Duvarkağıtları
+# Pisi-Linux-Duvarkagidi-ve-icon-calismaialrim
+Pisi Linux, Pisi Duvarkağıtları
